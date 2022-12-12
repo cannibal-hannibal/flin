@@ -1,2 +1,2 @@
-# flin
-Web App Brute Force Tool
+# flin - Web App Brute Force Tool
+
